@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Incidentes.ConsoleApp/Incidentes.ConsoleApp.csproj" />
+  <Project Path="Incidentes.Dominio/Incidentes.Dominio.csproj" />
+</Solution>
