@@ -84,7 +84,7 @@ classDiagram
 1. Clone o repositório (após submetido ao GitHub):
    ```bash
    git clone <url-do-repositorio>
-   cd vtmnc_poo
+   cd atividade-polimorfismo-poo
    ```
 
 2. Compile a solução:
